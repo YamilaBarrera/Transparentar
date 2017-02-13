@@ -1,10 +1,14 @@
 # transparentar
+
+#-------------------------------------
+Contacto: transparentar.agro@gmail.com
+#-------------------------------------
+
 Surgida del Hackaton Agro 2016, transparentar es una aplicación que busca ayudar a la fiscalización y control en la problemática del descarte de pesca de la República Argentina. Los datos utilizados están publicados en http://agrodatos.info/
 
 Problemática:
-La pesca le representa al país un volumen de ingreso de divisas mayor que el de la ganadería. Sin embargo, debido a....
-
-Motivación
+La pesca le representa al país un volumen de ingreso de divisas mayor que el de la ganadería.
+Sin embargo, miles de peses son devueltos al mar, ya muertos, porque no están dentro de las especies comercialmente valiosas. Se puede leer en documentación/laProblematica una nota del diario Clarín detallando el problema.
 
 La idea:
 La hipótesis fundamental que subyace en el modelo empleado para analizar y encontrar las anomalías en los partes de pesca consiste en suponer que en cada cuadrante del mar las distintas especies de peces se distribuyen siguiendo una distribución multinormal. Si uno lanza una red al mar reiteradas veces va a pescar un número variable de peces que a su vez serán de diferentes especies con una probabilidad asociada a ese cuadrante en particular.
